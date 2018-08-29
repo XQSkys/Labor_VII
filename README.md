@@ -14,21 +14,21 @@ das Puzzle.
 Das Programm zum übersetzen in ein aufürbares Java ist unter https://processing.org/ zu bekommen. 
 
 
-und der quellcode muss unbedingt von mir kommentiert werden sonst finde ich in einem halben jahr nix wieder.
+und der quellcode muss unbedingt noch von mir kommentiert werden sonst finde ich in einem halben Jahr nix wieder.
 
 Bei Labor VII muss erst geschoben werden dazu  mit der Maus auf die äussere Linke Kartenreihe oder obere Reihe, auf eines der jeweils 2. Felder klicken.
-Will man die Karte die der Aktive Pirat hat drehen.  dort mit der Maus in seinem Menue(z.B. unter dem Grünen Pirat 2) auf die karte klicken, sie dreht sich dann im Uhrzeigersinn. anschließend muss man sich entscheiden wo die Karte hin soll.
+Will man die Karte die der Aktive Pirat hat drehen.  dort mit der Maus in seinem Menue(z.B. unter dem Grünen Pirat 2) auf die Karte klicken, sie dreht sich dann im Uhrzeigersinn. und entscheiden wo die Karte hin soll.
 Die Spieler können sie anschließend durch die Tasten a ,s ,d ,w und y (stehen bleiben) bewegen.
 Was noch nicht klappt ist das gesammlte Spieler oder besiegte erkannt werden. das spiel hängt dann. was aber schon klappt ist sich selbst von der Karte schieben.
 sin ist es das der eigene spieler alleine auf den Feld zurück bleibt. egal ob der Geger sammt Karte im Menu eines Piraten ist oder einfach "übermalt wurde".
 
 das soll die schlichte variannte sein.
 
-die andere ist "Piratenkarte" ein Schiebepussel.
+die Variante/Branch andere ist "Piratenkarte" ein Schiebepussel.
 Es Funktioniert im grunde wie Labor VII nur das  z.b. mit Paint der Spielstand mit einem Bild in der mitte wo die wege sind übermalt wird.
 und dann Jeder Pirat ein teil des Bildes Bekommt.
-
-beim laden  muss darauf geachtet werden das, vor dem landen die Schwierigkeit auf die selbe kartenzahl gestellt wird wie der Spielstand.
+Was jemand anders Wieder Zusammensetzt.
+beim laden  muss darauf geachtet werden das, vor dem landen die Schwierigkeit auf die selbe Kartenzahl gestellt wird wie der Spielstand.
 
 
 meine Idee war alles nur mit einfachen png Bildern zu machen. So kann bei Hanoi einfach ein Stein dazugemalt werden oder durch bilder verändert wird. die obere kannte sollte dazu aber gerade sein.
