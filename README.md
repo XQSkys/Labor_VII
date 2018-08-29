@@ -1,5 +1,5 @@
 # PiratenKarte
-A Labyrint Game for up to 4 Player
+A Puzzle with a wide degree of difficulty
 
 
 Wie Labor VII muss erst geschoben werden dazu mit der Maus auf die äussere Linke Kartenreihe oder obere Reihe, auf eines der jeweils 2. Felder klicken. 
