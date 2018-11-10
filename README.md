@@ -1,5 +1,5 @@
 # Labor_VII
-# Labor_VII
+
 A Labyrint Game for up to 4 Player
 
 ich habe mich für GPL 3.0 Lizenz entschieden.
