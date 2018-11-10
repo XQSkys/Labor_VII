@@ -8,7 +8,7 @@ Das Programm zum übersetzen in ein aufürbares Java ist unter https://processin
 
 
 
-Bei Labor VII kann erst die Karte die der Aktive Pirat hat drehen, durch Anklicken. Danach könnte geschoben werden, dazu mit der Maus auf die äussere Kartenreihe , auf eines der jeweils 2. Felder klicken. 
+Bei Labor VII kann erst die Karte die der Aktive Pirat hat gedreht werden, durch Anklicken mit der Maus. Danach könnte geschoben werden, dazu mit der Maus auf die äussere Kartenreihe , auf eines der jeweils 2. Felder klicken. 
  Die Spieler können sie anschließend durch die Tasten a ,s ,d ,w und y (stehen bleiben) bewegen.
   Ziel ist es das der eigene Pirat alleine auf den Feld zurück bleibt.
   Egal ob der Geger sammt Karte im Menu eines Piraten ist oder einfach "übermalt wurde".
@@ -24,9 +24,4 @@ wenn sie eine dieser *bild*.png nutzen wollen als Spielstand können sie sie in 
 Die Button oben in Labor VII haben fast alle eine funktion.
 die ist oft nutzlich aber auch riskant.
 mit y stehenbleiben ist da oft eine erholung für deinen Pirat.
-
-
-  
-
-
 
