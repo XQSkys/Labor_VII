@@ -5,7 +5,7 @@ A Labyrint Game for up to 4 Player
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
 
-Das Programm zum übersetzen in ein aufürbares Java ist unter https://processing.org/ zu bekommen.
+Das Programm zum übersetzen in ein ausführbares Java ist unter https://processing.org/ zu bekommen.
 
 
 
