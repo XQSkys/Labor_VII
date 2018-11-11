@@ -46,3 +46,14 @@ Die Button oben in Labor VII haben fast alle eine funktion.
 die ist oft nutzlich aber auch riskant.
 Mit y stehenbleiben ist da oft eine erholung für deinen Pirat.
 
+Die Piraten Lebensenergie werte sind ans aktuelle spiel gebunden
+sie werden beim neustart des Spiels wieder zurück auf normal gesetzt
+wenn ihr einem Freund den z.b. 7bild.png schickt
+sind die werte des empfängers in der geladenen map von seinem aktuellen spiel.
+laden und speichern kostet energie.
+wenn eure spieler erschöpft sind sie nur bei euch erschopft.
+der e-mail emphänger hat z.b. ausgerute spieler und laufen völlig "normal" über die zugeschickte map.
+ihr könnt den unteren grauen balken frei gestalten(text, bilder), das meiste andere auch. nur die karte selber ist etwas schwirig.
+
+auch wer grade dran ist wird nicht übertragen. es ist der spieler des e-mail empfängers am zug.
+
