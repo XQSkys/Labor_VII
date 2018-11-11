@@ -57,3 +57,4 @@ ihr könnt den unteren grauen balken frei gestalten(text, bilder), das meiste an
 
 auch wer grade dran ist wird nicht übertragen. es ist der spieler des e-mail empfängers am zug.
 
+wem es spass macht kann auch in die kartenstückecken Karoten äpfel oder sonsiges zeichen. werden diese von der karte geschoben landen sie beim aktiven piraten. ihr seht dann auch bei der 3x3er map das geschenk beim Piraten im karten fenster in kleiner version. ob er sich freut wenn ihr die karte dann dreht weiss ich nicht....
