@@ -7,7 +7,13 @@ ich habe mich für GPL 3.0 Lizenz entschieden.
 
 Das Programm zum übersetzen in ein ausführbares Java ist unter https://processing.org/ zu bekommen.
 
+was kostet das Labor_VII app?
 
+ich will dafür kein geld.
+
+es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
+
+Ich bin zwar für GNU GPL V3 aber ob ich das einfach so entscheiden darf ist fraglich.
 
 Bei Labor VII kann erst die Karte die der Aktive Pirat hat gedreht werden, durch Anklicken mit der Maus. Danach könnte geschoben werden, dazu mit der Maus auf die äussere Kartenreihe , auf eines der jeweils 2. Felder klicken. 
 Die Spieler können sie anschließend durch die Tasten a ,s ,d ,w und y (stehen bleiben) bewegen.
