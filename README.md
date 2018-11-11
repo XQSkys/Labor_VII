@@ -2,7 +2,7 @@
 
 A Labyrint Game for up to 4 Player
 
-zum Download empfohle Version:
+zum Download empfohlene Version:
 
 LaboVII_PreBeta0_7_2_0_Room_1.7z
 
