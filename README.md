@@ -2,12 +2,22 @@
 
 A Labyrint Game for up to 4 Player
 
+zum Download empfohle Version:
+
+LaboVII_PreBeta0_7_2_0_Room_1.7z
+
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
 
-Das Programm zum übersetzen in ein ausführbares Java ist unter https://processing.org/ zu bekommen.
+Das Tool zum übersetzten in ein ausführbares Java Programm finden sie unter: https://processing.org/
+zum Spielen selber benotigen sie auserdem:
 
-was kostet das Labor_VII app?
+Java:
+
+https://java.com/de/download/
+
+
+# was kostet das Labor_VII app?
 
 ich will dafür kein geld.
 
