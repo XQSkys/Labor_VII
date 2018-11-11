@@ -21,7 +21,11 @@ https://java.com/de/download/
 
 ich will dafür kein geld.
 
-es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich "Vermögensfürsorge" kümmert.
+es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich um den Bereich "Vermögensfürsorge" kümmert.
+Nur weil ich in der lage bin einen über 5500 zeiligen code für ein komplexes App schreiben kann...
+warum ich trozdem spiele wie Anno oder civization oder auch skyrim und ohne mühe spiele...
+ist halt Deuschland H im sinne des ...
+
 
 Ich bin zwar für GNU GPL V3 aber ob ich das einfach so entscheiden darf ist fraglich.
 
