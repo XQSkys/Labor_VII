@@ -22,12 +22,9 @@ https://java.com/de/download/
 ich will dafür kein geld.
 
 es ist aber unklar ob ich das überhaubt entscheiden darf da ich einen Gerichtlichen bestellten Betreuer/Rechtanwalt habe der sich um den Bereich "Vermögensfürsorge" kümmert.
-Nur weil ich in der lage bin einen über 5500 zeiligen code für ein komplexes App zu schreib...
-warum ich trozdem spiele wie Anno oder civization oder auch skyrim und ohne mühe spiele...
-ist halt Deuschland H im sinne des ...
-
-
 Ich bin zwar für GNU GPL V3 aber ob ich das einfach so entscheiden darf ist fraglich.
+das Programm ist von mir komplett selbst gemacht, das ist nicht das problem.
+einfach das ich geld dafür nehmen müsste... weil ich darauf eigenlich angewiesen wäre.
 
 Bei Labor VII kann erst die Karte die der Aktive Pirat hat gedreht werden, durch Anklicken mit der Maus. Danach könnte geschoben werden, dazu mit der Maus auf die äussere Kartenreihe , auf eines der jeweils 2. Felder klicken. 
 Die Spieler können sie anschließend durch die Tasten a ,s ,d ,w und y (stehen bleiben) bewegen.
