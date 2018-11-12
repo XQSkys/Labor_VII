@@ -4,7 +4,7 @@ A Labyrint Game for up to 4 Player
 
 zum Download empfohlene Version:
 
-LaboVII_PreBeta0_7_2_3_Room_1.7z
+https://github.com/XQSkys/Labor_VII/blob/master/LaboVII_PreBeta0_7_2_5_Room_1.zip
 
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
