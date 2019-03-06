@@ -2,14 +2,16 @@
 
 A Labyrint Game for up to 4 Player
 
-zum Download empfohlene Version:
+New:
+Editorfunktion die Aktiv in spiel eingreift.
+Die Android Version habe ich nicht testen können bisher... das kompilieren war aber fehlerlos.
+Ich weiss aber das die schrift und buttons schwer zu bedinen sein werden.
 
-https://github.com/XQSkys/Labor_VII/blob/master/LaboVII_PreBeta0_7_2_5_Room_1.zip
 
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
 
-Das Tool zum übersetzten in ein ausführbares Java Programm finden sie unter: https://processing.org/
+Das Tool zum übersetzten der *.pde in ein ausführbares Java Programm finden sie unter: https://processing.org/
 zum Spielen selber benotigen sie auserdem:
 
 Java:
