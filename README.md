@@ -7,6 +7,7 @@ Editorfunktion die Aktiv in spiel eingreift.
 Die Android Version habe ich nicht testen können bisher... das kompilieren war aber fehlerlos.
 Ich weiss aber das die schrift und buttons schwer zu bedinen sein werden.
 
+# die Android version konnte ich bisher nicht testen, mangels Anroid Smartphone
 
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
