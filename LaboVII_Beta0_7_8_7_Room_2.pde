@@ -1,4 +1,4 @@
-    PImage webImg;
+    
   void setup() {
     size(1000, 1000);
     frameRate(8);
@@ -1510,13 +1510,12 @@
       text("Lade", 320, 70);
       text("Karte", 320, 90);
       if (mousePressed&&Admin==1) {
-         PImage bild;
- webImg = loadImage("http://madouc.freeservers.com/Karte/"+feld+"bild.png");
-      bild = loadImage(feld+"bild.png");
-      if (bild != null) {
-        image(bild, 0, 0);
-        saveFrame(feld+"save/"+feld+"bild####.png");
-        ;
+        PImage bild;
+        bild = loadImage(feld+"bild.png");
+        if (bild != null) {
+          image(bild, 0, 0);
+          saveFrame(feld+"save/"+feld+"bild####.png");
+          ;
           if (spieler==1&&pts1>=1) {
             spawn=(int)random(0, 2);
             pts1=pts1-spawn+1;
@@ -1534,30 +1533,7 @@
               pts4=pts4-spawn*2;
             }
           delay(200);
-        } else if (webImg != null){
-      image(webImg, 0, 0);if (spieler==1&&pts1>=1) {
-
-          spawn=(int)random(0, 2);
-          pts1=pts1-spawn+1;
-        } else
-
-          if (spieler==2&&pts2>=1) {
-
-            spawn=(int)random(0, 2);
-            pts2=pts2-spawn*2;
-          }
-        if (spieler==3&&pts3>=1) {
-
-          spawn=(int)random(0, 2);
-          pts3=pts3-spawn*2;
-        } else
-
-          if (spieler==4&&pts4>=1) {
-
-            spawn=(int)random(0, 2);
-            pts4=pts4-spawn*2;
-          }
-        delay(200);} else {
+        } else {
           fill(200, 0, 0);
           rect(310, 50, 70, 50 );
           fill(0);
