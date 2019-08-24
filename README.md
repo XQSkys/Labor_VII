@@ -1,23 +1,16 @@
+Labor VII 0_7_3_x:
+It a labor with 4 human player.
+click by mouse on any 2th kart on the map border.
+maybe you rotate the map piece in your aktiv pirat window by clicking it.
+in room2 it is posible to edit the map if “karte” is aktiv. it takes life energie(you have up to 6 points) editing the karte of the aktiv pirat is cheaper then the big map. you can change enemy player to give him to another player, life poins a not effeckted, they stay by the Pirat.
+by clicking upper left in the(Pirat 1 Aktiv) you can skip a turn(usefull sometime i you have colected a player and wont them back on map) any boutton takes life energie exept “schwirigkeit”.(the editor version allow unlimited editing of ways and players), room1 doesent have editor. a second click on the editor boutten deactivates him.
 
+Player: move the Pirat with wasd. the players range depents on random and life energie. life energie you lost by clicking the buttons regenerates if you stay with “y” key. the lifepoints rise slower if you got low life. if you lost a player it is not the end. if your life energie is 0 is not the end, a alliated player can resporn you. but at zero you more a unmoveble zomby. any mapchange like “karte wuerfeln” or “schwirigkeit” kill you again.
+its a last man standing game.the last player escape. as long as you have life point you can sporn by the aktion of another player without loss life energie.
 
-PiratenKarte_V3_8
-
-Play the game by mouse.
-click any second map piece left or up at the map boarder to move it.
-click load to get a Picture savegame from internet(
-madouc.freeservers.com) to provide own riddles cange http:line 153 to http://<your.page>/<3-11>bild.png
-pictures from internet only will load if there is no local savegame(3bild.png, 5bild.png…) change the difficulty by clicking "Schwirigkeit Felder: (9-121))
-change the activ Pirat by upper left “Pirat 1”(1-4).
-
-PiratenKarte V3.7:
-the same as v3.8 without internet funktion, you must make a picture riddle first.
-
-aim: make the picture once
-You can Load save anytime(web based downloads only will made if there is no local png for your difficulty)
-
-to make a on riddle : click save button edit the png(e.g 3bild.png) edit this with Paint or similar ans save. load it , click a few times and save.
-
-
+Labor VII 0_7_8_x:
+now you can load savegame png from internet (madouc.freeservers) or edit line 1514 and replace it with your on homepage 3 or 5 or 7bild.png.
+you need no ingame editor you can also you windows paint or your favorit. the player color must stay the same.
 
 
 # Labor_VII
