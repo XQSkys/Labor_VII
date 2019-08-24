@@ -1,3 +1,18 @@
+
+
+PiratenKarte V3.7:
+the same as v3.8 without internet funktion, you must make a picture riddle first.
+
+aim: make the picture once
+You can Load save anytime(web based downloads only will made if there is no local png for your difficulty)
+
+to make a on riddle : click save button edit the png(e.g 3bild.png) edit this with Paint or similar ans save. load it , click a few times and save.
+
+At Last my favorit game:
+Labor VII 0_7_3_
+
+
+
 # Labor_VII
 
 A Labyrint Game for up to 4 Player
@@ -6,8 +21,6 @@ New:
 Editorfunktion die Aktiv in spiel eingreift.
 Die Android Version habe ich nicht testen können bisher... das kompilieren war aber fehlerlos.
 Ich weiss aber das die schrift und buttons schwer zu bedinen sein werden.
-
-# die Android version konnte ich bisher nicht testen, mangels Anroid Smartphone
 
 ich habe mich für GPL 3.0 Lizenz entschieden.
 
